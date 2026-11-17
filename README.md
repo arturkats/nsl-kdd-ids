@@ -115,7 +115,7 @@ For attack rows, a prediction is 1 when caught and 0 when missed, so the average
 ## How to run
 
 ```bash
-git clone https://github.com/<your-username>/nsl-kdd-ids.git
+git clone https://github.com/<arturkats@live.com>/nsl-kdd-ids.git
 cd nsl-kdd-ids
 python -m venv venv
 venv\Scripts\activate            # Windows  (macOS/Linux: source venv/bin/activate)
